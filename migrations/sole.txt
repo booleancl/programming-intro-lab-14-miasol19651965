@@ -1,0 +1,4 @@
+C:/Users/Usuaria/intro_dev/programming-intro-lab-14-miasol19651965/migrations/0_createDatabase.sql
+C:/Users/Usuaria/intro_dev/programming-intro-lab-14-miasol19651965/migrations/1_createUsersTable.sql
+C:/Users/Usuaria/intro_dev/programming-intro-lab-14-miasol19651965/migrations/2_createPostsTable.sql
+C:/Users/Usuaria/intro_dev/programming-intro-lab-14-miasol19651965/migrations/3_createComments.sql

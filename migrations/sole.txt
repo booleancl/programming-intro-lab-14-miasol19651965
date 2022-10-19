@@ -2,3 +2,17 @@ C:/Users/Usuaria/intro_dev/programming-intro-lab-14-miasol19651965/migrations/0_
 C:/Users/Usuaria/intro_dev/programming-intro-lab-14-miasol19651965/migrations/1_createUsersTable.sql
 C:/Users/Usuaria/intro_dev/programming-intro-lab-14-miasol19651965/migrations/2_createPostsTable.sql
 C:/Users/Usuaria/intro_dev/programming-intro-lab-14-miasol19651965/migrations/3_createComments.sql
+C:/Users/Usuaria/intro_dev/programming-intro-lab-14-miasol19651965/data/users.csv
+C:/Users/Usuaria/intro_dev/programming-intro-lab-14-miasol19651965/data/posts.csv
+
+C:/Users/Usuaria/intro_dev/programming-intro-lab-14-miasol19651965/migrations/4_seedData.sql
+C:/Users/Usuaria/intro_dev/programming-intro-lab-14-miasol19651965/migrations/0_createDatabase.sql
+C:/Users/Usuaria/intro_dev/programming-intro-lab-14-miasol19651965/migrations/1_createUsersTable.sql
+C:/Users/Usuaria/intro_dev/programming-intro-lab-14-miasol19651965/migrations/1_createUsersTable.sql
+C:/Users/Usuaria/intro_dev/programming-intro-lab-14-miasol19651965/migrations/3_createComments.sql
+C:/Users/Usuaria/intro_dev/programming-intro-lab-14-miasol19651965/migrations/2_createPostsTable.sql
+C:/Users/Usuaria/intro_dev/programming-intro-lab-14-miasol19651965/migrations/4_seedData.sql
+C:/Users/Usuaria/intro_dev/programming-intro-lab-14-miasol19651965/queries/5_posts-with-users.sql
+
+C:/Users/Usuaria/intro_dev/programming-intro-lab-14-miasol19651965/queries/6_comments-with-users.sql
+C:/Users/Usuaria/intro_dev/programming-intro-lab-14-miasol19651965/queries/7_lazy-user.sql
